@@ -1,0 +1,17 @@
+<patients>
+    <patient>
+        <issue>Diabetes</issue>
+    </patient>
+    <patient>
+        <issue>Asthma</issue>
+    </patient>
+    <patient>
+        <issue>Hypertension</issue>
+    </patient>
+    <patient>
+        <issue>Allergy</issue>
+    </patient>
+    <patient>
+      <issue>Fever</issue>
+    </patient>
+</patients>
